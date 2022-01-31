@@ -1,0 +1,19 @@
+{
+  "ts-node": {
+    "files": true
+  },
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["ESNext"],
+    "outDir": "./dist",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "resolveJsonModule": true,
+    "typeRoots": ["./types/global.d.ts"],
+    "skipLibCheck": false,
+
+  },
+
+}
