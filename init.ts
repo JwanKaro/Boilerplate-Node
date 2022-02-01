@@ -14,6 +14,8 @@ dotenv.config(
  * Expicitly define the environment variables so the typescript 
  * compiler doesn't bitch about them not being defined 
  * 
+ * The value undefined is just a placeholder. This means that the value doesn't matter  
+ * 
  * It has to be exported so the *global.d.ts* file can access it
 */
 export const EnvironmentVariables = {
