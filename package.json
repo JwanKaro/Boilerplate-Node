@@ -10,8 +10,8 @@
     "winston": "^3.5.0"
   },
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js",
+    "start": "ts-node init.ts",
+    "dev": "nodemon",
     "build": "tsc"
   }
 }
