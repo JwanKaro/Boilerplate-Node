@@ -1,5 +1,5 @@
 # Basic Boilerplate Node.js with TypeScript
-This boilerplate will make your life a bit easier with NodeJS projects. Nobody really uses JavaScript that much because TypeScript gives you features, that JavaScript don't really have it. Like Types and enums etc. 
+This boilerplate will make your life a bit easier with NodeJS projects. Nobody really uses JavaScript that much because TypeScript gives you features, that JavaScript lacks. Like Types and enums etc. 
 # What it's made of?
 
 1. Node.js: The server side of the project.
